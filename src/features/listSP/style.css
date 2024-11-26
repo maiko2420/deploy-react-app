@@ -1,0 +1,22 @@
+.listSP{
+    margin-top: 20px; 
+    margin-bottom: 40px;
+    margin-left: 150px;
+    width: 83%;
+    padding:20px 30px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+}
+
+.listSP .header-list{
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .list-show{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    padding-left: 50px;
+    margin-top: 20px;
+    position: relative;
+  }

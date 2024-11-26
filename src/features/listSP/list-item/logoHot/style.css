@@ -1,0 +1,35 @@
+.logoHot{
+    position: absolute;
+    top:-5%;
+    right: -10%;
+    height: 20%;
+    width:30%;
+    border-radius: 50%;
+    border-color: rgb(163, 163, 67);
+    border-style: solid;
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    animation: forwards scaleInfinite 1s infinite;
+}
+@keyframes scaleInfinite{
+    0%
+    {
+        transform: scale(100%)
+    };  
+    25%
+    {
+        transform: scale(90%)
+    };  
+    50%{
+        transform: scale(80%)
+    }
+    75%{
+        transform: scale(90%)
+    }
+    100%{
+        transform: scale(100%)
+    }
+
+}

@@ -1,0 +1,26 @@
+li{
+    display: inline-block;
+}
+.btn1{
+    
+    color: black;
+    text-align: center;
+    width: 140px;
+    height: 100%;
+    padding-top: 1px;
+    
+}
+
+.icon{
+    margin-left: 5px;
+}
+
+li .btn1:hover{
+    cursor: pointer;
+    background-color: white;
+    
+}
+#dropdown:hover .dropdown-content{
+    display: block;
+    
+}

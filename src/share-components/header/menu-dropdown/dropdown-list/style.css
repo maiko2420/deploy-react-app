@@ -1,0 +1,8 @@
+.menu-child-item{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr ;
+}
+
+h4{
+    text-align: left;
+}

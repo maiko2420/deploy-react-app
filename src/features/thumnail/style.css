@@ -1,0 +1,12 @@
+.thumnail{
+    margin-top: 103px;
+    margin-left: 150px;
+    height: 250px;
+    z-index: -1;
+  }
+  
+.thumnail img{
+    width: 90%;
+    height: 100%;
+    border-radius: 10px;
+  }

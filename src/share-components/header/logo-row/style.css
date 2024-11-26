@@ -1,0 +1,10 @@
+.logoRow{
+    display: inline-block;
+    padding-left: 815px;
+    margin-bottom: 10px;
+}
+
+.logoRow .logo{
+    width: 200px;
+    height: 48px;
+}

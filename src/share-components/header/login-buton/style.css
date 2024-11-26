@@ -1,0 +1,18 @@
+.menu .login{
+    position: absolute;
+    top: 13%;
+    right: 1%;
+    width: 2%;
+    height: 30%;
+    text-align: center;
+    background-color: whitesmoke;
+    border-color: black;
+    border-width: thin;
+    border-style: solid;
+    border-radius: 10px;
+    
+  }
+  .menu .login:hover{
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,2);
+    cursor: pointer;
+  }

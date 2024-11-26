@@ -1,0 +1,19 @@
+.seen{
+    margin-top: 20px;
+    /**margin-bottom: 20px;**/
+    background-color: white;
+    margin-left: 150px;
+    width: 83%;
+    height: 180px;
+    border-radius: 10px;
+    padding:10px 30px;
+    position: relative;
+    
+  }
+  
+  .seen .header-seen{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+

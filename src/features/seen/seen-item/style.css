@@ -1,0 +1,19 @@
+.item-lst-seen{
+  
+    background-color: white;
+    width: 280px;
+    height: 100px;
+    border-color: rgb(206, 206, 206);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+
+  .item-lst-seen:hover{
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,1);
+    cursor: pointer;
+  }
+
+  
